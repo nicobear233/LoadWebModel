@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese lamp Pixel Art
+* source:	https://sketchfab.com/3d-models/japanese-lamp-pixel-art-3f08a53550354e99b991ec2d43ff2751
+* author:	Nobu (https://sketchfab.com/nobu_stranger)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese lamp Pixel Art" (https://sketchfab.com/3d-models/japanese-lamp-pixel-art-3f08a53550354e99b991ec2d43ff2751) by Nobu (https://sketchfab.com/nobu_stranger) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
